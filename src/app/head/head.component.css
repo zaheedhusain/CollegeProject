@@ -1,0 +1,29 @@
+.hero{
+   padding:0px ;
+   background-color: rgb(43, 41, 46);
+   flex: 0%;
+}
+.btn{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 80%;
+    margin-right: 0%;
+    padding: 20px 10px 5px;
+}
+.ha{
+    padding-right: 20%;
+}
+a{
+    color:lightgreen;
+}
+
+.center{
+        display: block;
+        margin-left: 580px;
+        margin-right: 0;
+        width: 400px;
+      }
+p{
+  text-align: center;  
+  font-size: 40px; 
+}
